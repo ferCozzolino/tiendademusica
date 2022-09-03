@@ -1,0 +1,10 @@
+[
+    {"id" : 1, "titulo": "A Night at the Opera", "artista": "Queen", "categoria": "rock", "img": "./img/queen01.jpg", "precio": 2510, "cantidad": 1},
+    {"id" : 2, "titulo": "Bad", "artista": "Michael Jackson", "categoria": "pop", "img": "./img/mk01.jpg", "precio": 3522, "cantidad": 1},  
+    {"id" : 3, "titulo": "Ray of Light", "artista": "Madonna", "categoria": "pop", "img": "./img/mdna01.jpg", "precio": 4500, "cantidad": 1},
+    {"id" : 4, "titulo": "Bridges to Babylon", "artista": "Rolling Stones", "categoria": "rock", "img": "./img/rs01.jpg", "precio": 1800, "cantidad": 1},
+    {"id" : 5, "titulo": "Labour of Love", "artista": "UB40", "categoria": "reggae", "img": "./img/ub4001.jpg", "precio": 2760 , "cantidad": 1},
+    {"id" : 6, "titulo": "Kaya", "artista": "Bob Marley", "categoria": "reggae", "img": "./img/bm01.jpg", "precio": 4100, "cantidad": 1}
+
+] 
+
